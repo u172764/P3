@@ -1,0 +1,14 @@
+#EXTM3U
+## Created with Golumi Video Platform
+
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:11880
+#EXTINF:5.0
+https://rtvelivestream.akamaized.net/rtvesec/tdp/GL1/4_v_4_2022_12_07_20_30_05_11880.ts
+#EXTINF:5.0
+https://rtvelivestream.akamaized.net/rtvesec/tdp/GL1/4_v_4_2022_12_07_20_30_10_11881.ts
+#EXTINF:5.0
+https://rtvelivestream.akamaized.net/rtvesec/tdp/GL1/4_v_4_2022_12_07_20_30_15_11882.ts
+#EXTINF:5.0
+https://rtvelivestream.akamaized.net/rtvesec/tdp/GL1/4_v_4_2022_12_07_20_30_20_11883.ts
